@@ -122,9 +122,36 @@ Perfecto para principiantes que quieren iniciarse en el desarrollo web sin insta
 ### Lección 4: Introducción a CSS y primeros estilos
 
 - **Descripción:**
-- **Enlace:** [Ver la lección]()
+
+    En esta lección aprenderas como darle estilo a una pagina web usando CSS. Veras como cambiar colores, fuentes, margenes y relleno. Ademas, conoceras las diferentes formas de poder entrenalzar tu archivo HTML con CSS. Al final, tendras una pequeña pagina donde se aplicara todo lo aprendido 🥳
+- **Enlace:** [Ver la lección](https://youtu.be/u_7TpxH95qo)
 - **Consejos clave:**
+  - Organiza siempre tus archivos 
+  - Nombra bien tus clases, evita nombres genericos como .azul o .texto1
+  - Prueba y juega con los estilos, experimentar es la mejor manera de aprender
+  - Cuida el orden del CSS, recuerda que el navegador aplica los estilos en orden: si dos reglas afectan lo mismo, la ultima gana
+  - Usa comentarios y revisa errores simples, utiliza /**/ para poder comentar tu codigo y recordar que hace cada seccion
 - **Práctica:**
+  - Agrega a tu pagina estilos, cambia el tipo de fuente, centra el contenedor y cambia el color de fondo del boton
+  - Usa este codigo como punto de partida en JSFiddle o CodePen:
+
+    ```html
+    <!DOCTYPE html>
+    <html lang="es">
+        <head>
+            <meta charset="UTF-8">
+            <title>Practicando</title>
+            <link rel="stylesheet" href="">
+        </head>
+        <body>
+            <div class="tarjeta">
+                <h1>Hola mundo</h1>
+                <p>Este es un ejemplo sencillo para practicar tus primeros estilos</p>
+                <button>Haz click aqui</button>
+            </div> 
+        </body>
+    </html>
+    ````
 
 ### Lección 5: Proyecto final, mi primera página web
 
