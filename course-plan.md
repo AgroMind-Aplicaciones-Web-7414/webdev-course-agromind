@@ -58,9 +58,32 @@ El aprendizaje se basa en ejercicios interactivos en línea y explicaciones simp
 ### Lección 2: Estructura básica de HTML
 
 - **Descripción:**
-- **Enlace:** [Ver la lección]()
+En esta lección aprenderás la estructura básica de HTML utilizando el editor en línea CodePen.io. Verás cómo funcionan las etiquetas principales (<html>, <head>, <body>), cómo crear encabezados y párrafos, y cómo construir tu primera página web con título y texto de presentación.
+Perfecto para principiantes que quieren iniciarse en el desarrollo web sin instalar ningún programa.
+  
+- **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=ajL-icFDeRs&t=66s)
 - **Consejos clave:**
+  
+- Cierra siempre tus etiquetas correctamente.
+
+- Mantén el código ordenado e indentado.
+
+- Usa CodePen para probar y ver los cambios en tiempo real.
+
+- Empieza simple: título y párrafos son la base de toda página web.
+- 
 - **Práctica:**
+'''html lang="es"
+<head>
+    <title>Mi primera web</title>
+</head>
+
+<body>
+    <h1>Mi primera web</h1>
+    <p>Bienvenidos a mi primera página web</p>
+    <p>Esta es la estructura principal <br> de un documento HTML.</p>
+</body>
+''html>
 
 ### Lección 3: Elementos HTML comunes 
 
