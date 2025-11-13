@@ -30,12 +30,42 @@ El aprendizaje se basa en ejercicios interactivos en línea y explicaciones simp
 - **Consejos clave:**
 - **Práctica:**
 
-### Lección 3: Elementos HTML comunes
+### Lección 3: Elementos HTML comunes 
 
-- **Descripción:**
-- **Enlace:** [Ver la lección]()
-- **Consejos clave:**
+- **Descripción:** 
+
+  En esta lección aprenderás a enriquecer tu página web agregando listas, imágenes y enlaces.
+  Descubrirás cómo organizar contenido, mostrar fotos y conectar tu sitio con otras páginas, usando los atributos más importantes: src, href y alt.
+  Al final, tendrás una pequeña página de hobbies con una lista, una imagen y un enlace funcional. 🎯
+- **Enlace:** [Ver la lección](https://youtu.be/LxCKUfD7P30)
+- **Consejos clave:** 
+  - Usa listas `<ul>`, `<ol>`, `<li>` para organizar información como hobbies, tareas o pasos. 
+  - Las imágenes se insertan con `<img>` y deben tener siempre un texto alternativo `(alt)` por accesibilidad.
+  - Los enlaces ``(<a>)`` conectan páginas y se abren en una nueva pestaña usando `target="_blank".` 
+  - Combina tus nuevos elementos para crear una página más completa y visual.
 - **Práctica:**
+  - Agrega a tu página una lista de hobbies, una imagen y un enlace dentro del contenido. 
+  - Usa este código como punto de partida en JSFiddle o CodePen:
+
+    ```html
+    <h1>Mis hoobies</li>
+
+    <ul>
+        <li>Leer</li>
+        <li>Correr</li>
+        <li>escuchar musica</li>
+    </ul>
+
+    <img src="https://dus6dayednven.cloudfront.net/app/uploads/2022/05/1-DSC00855-Editar_baja.jpg" alt="foto de un perrito">
+
+    <a href="https://www.google.com/?hl=es&zx=1763045414891&no_sw_cr=1" target="_blank">Ir a google</a>
+    ````
+
+  * 💡 Experimenta cambiando el texto, la imagen y el enlace por tus propios intereses.
+  * Observa cómo el navegador interpreta cada etiqueta y muestra el resultado.
+
+  - [Editar en JSFiddle](https://jsfiddle.net/z4vqjwu3/) 👈
+
 
 ### Lección 4: Introducción a CSS y primeros estilos
 
@@ -65,16 +95,6 @@ El aprendizaje se basa en ejercicios interactivos en línea y explicaciones simp
 - **Código fuente completo:**
   [https://github.com/AgroMind-Aplicaciones-Web-7414/webdev-course-agromind](https://github.com/AgroMind-Aplicaciones-Web-7414/webdev-course-agromind)
 
-- **Actividades prácticas:**
-
-| Nº de Lección | Actividad | Enlace |
-| ------------- |-----------|--------|
-| 1             |           |        |
-| 2             |           |        |
-| 3             |           |        |
-| 4             |           |        |
-| 5             |           |        |
-| 6             |           |        |
 
 ## 👥 Elaboración
 

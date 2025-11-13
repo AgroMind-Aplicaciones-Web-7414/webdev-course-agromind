@@ -15,7 +15,6 @@ Todo el contenido está pensado para ser claro, visual y divertido.
 
 `webdev-course-agromind/` <br>
 │<br>
-├── `starter-files/` → Archivos base para cada lección<br>
 ├── `completed-examples/` → Soluciones completas de cada práctica<br>
 ├── `course-plan.md` → Plan del curso<br>
 └── `README.md` → Este documento<br>
