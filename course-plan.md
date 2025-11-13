@@ -145,15 +145,22 @@ Perfecto para principiantes que quieren iniciarse en el desarrollo web sin insta
 ## 👥 Elaboración
 
 **Universidad Peruana de Ciencias Aplicadas (UPC)**  
+
 **Carrera:** Ingeniería de Software  
+
 **Curso:** 1ASI0730 – Aplicaciones Web  
+
 **Ciclo académico:** 202520  
+
 **NRC:** 7414 
+
 **Nombre del equipo:** Agromind
+
 **Líder del equipo:** Anjali Amaro Villar
 **Integrantes del equipo:**
 - Aaron Santiago Baquerizo Cirilo
 - Maria Fernanda Mostajo Orosco
 - César Augusto Navarro Correa
 - Romina Alejandra Tuesta Marin 
+
   **Fecha de entrega:** Jueves 13 de noviembre de 2025
