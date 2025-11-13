@@ -131,15 +131,14 @@ Perfecto para principiantes que quieren iniciarse en el desarrollo web sin insta
 - **Descripción:** En esta lección, aplicarás todo lo aprendido. Combinarás tu estructura HTML completa con contenido enriquecido y estilos CSS para construir tu primera pagina web cohesiva. El objetivo es crear una página de presentación personal o sobre un tema que te guste.
 - **Enlace:** [Ver la lección]()
 - **Consejos clave:**
-- Reutiliza tu código: No empieces desde cero. Usa la estructura completa de la Lección 2 como base.
-- Planifica el contenido: Decide el tema (¿Sobre ti? ¿Tu hobby? ¿Tu mascota?).
-- Ve por partes: 1. Estructura HTML. 2. Contenido. 3. Estilos CSS.
-- No temas experimentar: El objetivo es aplicar los conceptos.
+  - Reutiliza tu código: No empieces desde cero. Usa la estructura completa de la Lección 2 como base.
+  - Planifica el contenido: Decide el tema (¿Sobre ti? ¿Tu hobby? ¿Tu mascota?).
+  - Ve por partes: 1. Estructura HTML. 2. Contenido. 3. Estilos CSS.
+  - No temas experimentar: El objetivo es aplicar los conceptos.
 - **Práctica:**
-Crea una página "Sobre Mí" en CodePen o tu editor. Debe cumplir con todos los requisitos de las lecciones anteriores (estructura, elementos, y estilos CSS básicos).
+  - Crea una página "Sobre Mí" en CodePen o tu editor. Debe cumplir con todos los requisitos de las lecciones anteriores (estructura, elementos, y estilos CSS básicos).
 
-<!DOCTYPE html>
-<html lang="es">
+```html
 <head>
     <meta charset="UTF-8">
     <title>Mi Primera Página Web</title>
@@ -200,7 +199,7 @@ Crea una página "Sobre Mí" en CodePen o tu editor. Debe cumplir con todos los 
 </body>
 </html>
 
----
+```
 
 ## 📁 Recursos adicionales
 
