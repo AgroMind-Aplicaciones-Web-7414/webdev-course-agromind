@@ -24,7 +24,7 @@ Todo el contenido está pensado para ser claro, visual y divertido.
 ## 📚 Recursos del curso
 
 - **Documento principal del plan de curso:**  
-  [Fundamentos de Desarrollo Web - Plan de Curso]()
+  [Fundamentos de Desarrollo Web - Plan de Curso](https://github.com/AgroMind-Aplicaciones-Web-7414/webdev-course-agromind/blob/main/course-plan.md)
 - **Lista de Reproducción de las lecciones:**
   [YouTube - Fundamentos de Desarrollo Web]()
 - **Repositorio en Github:**
