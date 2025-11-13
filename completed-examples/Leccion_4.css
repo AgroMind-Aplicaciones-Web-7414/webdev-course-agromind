@@ -1,0 +1,14 @@
+body{
+    background-color: lightblue;
+    font-family: 'Poppins', sans-serif;
+  }
+  .titulo-principal{
+    color: crimson;
+    text-align: center;
+  }
+  .contenedor{
+    width: 60%;
+    margin: 0 auto;
+    background-color: white;
+    padding: 20px;
+  }
