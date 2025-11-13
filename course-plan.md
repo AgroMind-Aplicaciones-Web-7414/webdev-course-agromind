@@ -18,10 +18,42 @@ El aprendizaje se basa en ejercicios interactivos en línea y explicaciones simp
 
 ### Lección 1: ¿Qué es el desarrollo web? 
 
-- **Descripción:** 
-- **Enlace:** [Ver la lección]()
+- **Descripción:** En esta lección aprenderás qué es un sitio web, cómo funciona y cuáles son los dos lenguajes fundamentales del desarrollo web: HTML y CSS.
+  Descubrirás cómo ambos trabajan juntos para crear páginas estructuradas y con estilo, y al final construirás tu primer esquema visual de una página con encabezado, cuerpo y pie de página. 🚀
+- **Enlace:** [Ver la lección](https://youtu.be/ksDx_4th5zI)
 - **Consejos clave:** 
+  - Piensa en un sitio web como una casa digital: el HTML es su estructura y el CSS su decoración.
+
+  - Aprende paso a paso: primero la estructura, luego el diseño.
+
+  - Experimenta en CodePen; es un entorno ideal para practicar sin instalar nada.
+
+  - La clave es entender la base antes de crear algo complejo.
 - **Práctica:** 
+  - Crea un esquema básico de un sitio web usando HTML.
+    Incluye tres secciones principales:
+
+    - Encabezado con un título o saludo.
+
+    - Cuerpo con un texto breve o una idea principal.
+
+      - Pie de página con información final o contacto.
+    
+        💡 Puedes usar este código como punto de partida en CodePen:
+
+            - <header>
+                <h1>Bienvenidos a mi sitio web</h1>
+                    <p>Aquí empieza todo 🚀</p>
+                </header>
+
+              <main>
+                <h2>Contenido principal</h2>
+                    <p>En esta parte va la información más importante, como textos, imágenes o secciones interesantes.</p>
+              </main>
+
+              <footer>
+                <p>© 2025 Mi sitio web | Contáctanos en redes sociales 📱</p>
+              </footer>
 
 ### Lección 2: Estructura básica de HTML
 
