@@ -73,17 +73,14 @@ Perfecto para principiantes que quieren iniciarse en el desarrollo web sin insta
 - Empieza simple: título y párrafos son la base de toda página web.
 - 
 - **Práctica:**
-'''html lang="es"
-<head>
-    <title>Mi primera web</title>
-</head>
+``` html 
 
-<body>
-    <h1>Mi primera web</h1>
-    <p>Bienvenidos a mi primera página web</p>
-    <p>Esta es la estructura principal <br> de un documento HTML.</p>
-</body>
-''html>
+  <body>
+      <h1>Mi primera web</h1>
+      <p>Bienvenidos a mi primera página web</p>
+      <p>Esta es la estructura principal <br> de un documento HTML.</p>
+  </body>
+````
 
 ### Lección 3: Elementos HTML comunes 
 
