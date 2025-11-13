@@ -113,12 +113,6 @@ El aprendizaje se basa en ejercicios interactivos en línea y explicaciones simp
 - **Consejos clave:**
 - **Práctica:**
 
-### Lección 6: Consejos y próximos pasos
-
-- **Descripción:**
-- **Enlace:** [Ver la lección]()
-- **Consejos clave:**
-- **Práctica:**
 
 ---
 
