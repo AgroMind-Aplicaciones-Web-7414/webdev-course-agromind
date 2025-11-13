@@ -156,7 +156,7 @@ Perfecto para principiantes que quieren iniciarse en el desarrollo web sin insta
 ### Lección 5: Proyecto final, mi primera página web
 
 - **Descripción:** En esta lección, aplicarás todo lo aprendido. Combinarás tu estructura HTML completa con contenido enriquecido y estilos CSS para construir tu primera pagina web cohesiva. El objetivo es crear una página de presentación personal o sobre un tema que te guste.
-- **Enlace:** [Ver la lección](https://www.youtube.com/@Agromind-q2o/videos)
+- **Enlace:** [Ver la lección](https://youtu.be/XBRce-Lqudk?si=M1b6zjHbeEjAYNtU)
 - **Consejos clave:**
   - Reutiliza tu código: No empieces desde cero. Usa la estructura completa de la Lección 2 como base.
   - Planifica el contenido: Decide el tema (¿Sobre ti? ¿Tu hobby? ¿Tu mascota?).
