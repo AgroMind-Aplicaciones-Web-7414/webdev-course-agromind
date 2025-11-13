@@ -128,11 +128,77 @@ Perfecto para principiantes que quieren iniciarse en el desarrollo web sin insta
 
 ### Lección 5: Proyecto final, mi primera página web
 
-- **Descripción:**
+- **Descripción:** En esta lección, aplicarás todo lo aprendido. Combinarás tu estructura HTML completa con contenido enriquecido y estilos CSS para construir tu primera pagina web cohesiva. El objetivo es crear una página de presentación personal o sobre un tema que te guste.
 - **Enlace:** [Ver la lección]()
 - **Consejos clave:**
+- Reutiliza tu código: No empieces desde cero. Usa la estructura completa de la Lección 2 como base.
+- Planifica el contenido: Decide el tema (¿Sobre ti? ¿Tu hobby? ¿Tu mascota?).
+- Ve por partes: 1. Estructura HTML. 2. Contenido. 3. Estilos CSS.
+- No temas experimentar: El objetivo es aplicar los conceptos.
 - **Práctica:**
+Crea una página "Sobre Mí" en CodePen o tu editor. Debe cumplir con todos los requisitos de las lecciones anteriores (estructura, elementos, y estilos CSS básicos).
 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mi Primera Página Web</title>
+    
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff; /* Fondo Azul muy claro */
+            color: #333; 
+        }
+        header {
+            background-color: #004a99; 
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        main {
+            padding: 15px;
+        }
+        img {
+            width: 200px;
+            border-radius: 8px; 
+        }
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Mi Nombre</h1>
+        <p>Estudiante de Desarrollo Web 🚀</p>
+    </header>
+
+    <main>
+        <h2>Sobre Mí</h2>
+        <p>¡Hola! Estoy aprendiendo a crear páginas web. Este es mi proyecto final.</p>
+        
+        <img src="[https://via.placeholder.com/200](https://via.placeholder.com/200)" alt="Una imagen de placeholder">
+        
+        <h3>Mis Hobbies:</h3>
+        <ul>
+            <li>Aprender a programar</li>
+            <li>Ver series</li>
+            <li>Jugar videojuegos</li>
+        </ul>
+    </main>
+
+    <footer>
+        <p>Puedes encontrarme en <a href="[https://www.google.com](https://www.google.com)" target="_blank">Google</a>.</p>
+        <p>© 2025 - Creado por Mí</p>
+    </footer>
+
+</body>
+</html>
 
 ---
 
